@@ -1,0 +1,12 @@
+{
+    "name": "elasticsearch-demo",
+    "description": "elasticsearch-demo",
+    "keywords": ["elasticsearch-demo"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "5.5.*",
+        "elasticsearch/elasticsearch": "~6.0"
+    }
+}
